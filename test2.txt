@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2643-5DC1
+
+ Directory of C:\Users\Amarender Pallati\Desktop\My project
+
+08-03-2022  12:26    <DIR>          .
+08-03-2022  12:26    <DIR>          ..
+07-03-2022  16:30                22 index.html
+08-03-2022  12:26                 0 test2.txt
+07-03-2022  17:18               364 text1.txt
+07-03-2022  17:33                10 text2.txt
+               4 File(s)            396 bytes
+               2 Dir(s)  166,998,421,504 bytes free
